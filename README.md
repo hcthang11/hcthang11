@@ -33,7 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/android-os.png" alt="android-os"/>
@@ -41,6 +40,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
   <img width="48" height="48" src="https://img.icons8.com/parakeet/48/api-settings.png" alt="api-settings"/>
 
